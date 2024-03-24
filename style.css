@@ -475,7 +475,7 @@ a {
     height: 100%;
 
     background-color: var(--main-color);
-    background-image: url('assets/cat.gif');
+    background-image: url('assets/banner.jpg');
     background-repeat: repeat;
 
     z-index: 0;
